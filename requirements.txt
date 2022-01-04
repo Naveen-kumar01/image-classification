@@ -27,7 +27,6 @@ h5py==2.9.0
 idna==3.3
 imagecodecs
 imageio
-importlib-metadata==4.10.0
 ipaddress==1.0.22
 itsdangerous==1.1.0
 Jinja2==2.10.1

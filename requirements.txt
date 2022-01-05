@@ -8,7 +8,6 @@ colorama==0.4.4
 cycler==0.11.0
 Flask==2.0.2
 Flask-Cors==3.0.10
-fonttools==4.28.5
 gast==0.3.3
 google-auth==2.3.3
 google-auth-oauthlib==0.4.6

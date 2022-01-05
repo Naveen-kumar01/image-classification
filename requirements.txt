@@ -53,4 +53,6 @@ urllib3==1.26.7
 Werkzeug==2.0.2
 wincertstore==0.2
 wrapt==1.13.3
-zipp==3.7.0
+zipp==3.6.0
+pytest==6.2.2
+-e .

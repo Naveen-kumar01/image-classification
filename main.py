@@ -30,7 +30,7 @@ def read_image(filename):
     return np_image
 
 # Model saved with Keras model.save()
-MODEL_PATH = 'custom_model.h5'
+MODEL_PATH = 'custom_model1.h5'
 
 
 @app.route("/", methods=['GET', 'POST'])
